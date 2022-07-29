@@ -1,0 +1,1 @@
+# mobile-sonar-coverage
